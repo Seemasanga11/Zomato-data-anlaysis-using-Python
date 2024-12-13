@@ -35,8 +35,6 @@ The dataset used for this project contains information about restaurants, includ
 - Average cost for two
 - Reviews
 
-**Source:** [Zomato Dataset](https://www.kaggle.com/zomato)
-
 
 ## Usage
 1. Open the Jupyter Notebook:
